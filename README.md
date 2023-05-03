@@ -86,3 +86,7 @@ From the first level the soft skill of the player,which can be understood is bas
 In first level the player has to put the coins in the treasure box
 
 Second level defines the softskill "different ways to approach the problem" of the player
+
+In second level player has to catch thief based on some clues.
+
+Third level is a memory game which test the soft skill way of observing things.
